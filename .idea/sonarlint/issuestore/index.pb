@@ -13,3 +13,5 @@ L
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 K
 contracts/reward-token.clar,e/b/ebc951575aa92f535d1524c861e781761ec0947e
+R
+"contracts/synthetic-sense-nft.clar,7/c/7cd88f0fb45a7678c6c8cfc055c83bc624ee0656

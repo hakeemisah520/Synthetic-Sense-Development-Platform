@@ -29,6 +29,11 @@ epoch = 2.5
 path = 'contracts/reward-token.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.synthetic-sense-nft]
+path = 'contracts/synthetic-sense-nft.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
