@@ -15,3 +15,5 @@ K
 contracts/reward-token.clar,e/b/ebc951575aa92f535d1524c861e781761ec0947e
 R
 "contracts/synthetic-sense-nft.clar,7/c/7cd88f0fb45a7678c6c8cfc055c83bc624ee0656
+S
+#contracts/telescope-allocation.clar,b/4/b47f43119abb082b9e8107016b816ae00d5bd770
