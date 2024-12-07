@@ -5,3 +5,5 @@ R
 "contracts/exoplanet-discovery.clar,7/4/74fedda7339c50ef674cdf70277c40f6573d51be
 W
 'contracts/neuroplasticity-training.clar,f/1/f14690c8485534c3b53a488ffc5564f758ddb491
+O
+contracts/peer-review_clar.clar,f/a/fa7667e6036c04e5486f7d284bab46396e188f98
