@@ -1,0 +1,49 @@
+[project]
+name = 'Synthetic-Sense-Development-Platform'
+description = ''
+authors = []
+telemetry = true
+cache_dir = './.cache'
+requirements = []
+[contracts.collaboration]
+path = 'contracts/collaboration.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.exoplanet-discovery]
+path = 'contracts/exoplanet-discovery.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.neuroplasticity-training]
+path = 'contracts/neuroplasticity-training.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.peer-review_clar]
+path = 'contracts/peer-review_clar.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.reward-token]
+path = 'contracts/reward-token.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.synthetic-sense-nft]
+path = 'contracts/synthetic-sense-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.telescope-allocation]
+path = 'contracts/telescope-allocation.clar'
+clarity_version = 2
+epoch = 2.5
+[repl.analysis]
+passes = ['check_checker']
+
+[repl.analysis.check_checker]
+strict = false
+trusted_sender = false
+trusted_caller = false
+callee_filter = false
